@@ -14,7 +14,7 @@ This repository is still a work in progress. Please feel free to create a pull r
 ## Forward Reaction
 
 
-### Reaction Outcome Prediction
+### Reaction Outcomes (Reactivity) Prediction
 1. [NeurIPS 2017] Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network
 1. [Chemical Science 2018] "Found in Translation": Predicting Outcomes of Complex Organic Chemistry Reactions using Neural Sequence-to-Sequence Models
 1. [ACS Central Science 2019] Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction
@@ -26,13 +26,13 @@ This repository is still a work in progress. Please feel free to create a pull r
 1. [Machine Learning: Science and Technology 2022] Chemformer: A Pre-Trained Transformer for Computational Chemistry
 1. [Nature Machine Intelligence 2022] A Generalized-Template-Based Graph Neural Network for Accurate Organic Reactivity Prediction
 
-### Reaction Performance (Yields) Prediction
+### Reaction Yields (Performance) Prediction
 
 1. [Machine Learning: Science and Technology 2021] Prediction of Chemical Reaction Yields Using Deep Learning
 2. [Journal of Cheminformatics 2022] Uncertainty-Aware Prediction of Chemical Reaction Yields with Graph Neural Networks
 3. [Nature Communications 2023] Reaction Performance Prediction with an Extrapolative and Interpretable Graph Model Based on Chemical Knowledge
 
-### Reaction Condition Prediction
+### Reaction Conditions Prediction
 
 1. [ACS Central Science 2018] Using Machine Learning To Predict Suitable Conditions for Organic Reactions
 
