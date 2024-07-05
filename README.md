@@ -24,12 +24,17 @@ This repository is still a work in progress. Please feel free to create a pull r
 1. [ICLR 2022] Chemical-Reaction-Aware Molecule Representation Learning
 1. [ICML Workshop 2022] Pre-Training Transformers for Molecular Property Prediction Using Reaction Prediction
 1. [Machine Learning: Science and Technology 2022] Chemformer: A Pre-Trained Transformer for Computational Chemistry
+1. [Nature Machine Intelligence 2022] A Generalized-Template-Based Graph Neural Network for Accurate Organic Reactivity Prediction
 
-### Reaction Performance Prediction
+### Reaction Performance (Yields) Prediction
 
 1. [Machine Learning: Science and Technology 2021] Prediction of Chemical Reaction Yields Using Deep Learning
 2. [Journal of Cheminformatics 2022] Uncertainty-Aware Prediction of Chemical Reaction Yields with Graph Neural Networks
 3. [Nature Communications 2023] Reaction Performance Prediction with an Extrapolative and Interpretable Graph Model Based on Chemical Knowledge
+
+### Reaction Condition Prediction
+
+1. [ACS Central Science 2018] Using Machine Learning To Predict Suitable Conditions for Organic Reactions
 
 
 ### Reaction Mechanism
@@ -81,7 +86,7 @@ This repository is still a work in progress. Please feel free to create a pull r
 6. [ICLR 2024] Retro-Fallback: Retrosynthetic Planning in an Uncertain World
 7. [ICLR 2024] Active Retrosynthetic Planning Aware of Route Quality
 
-## Data Mining and Knowledge Discovery
+## Miscellaneous
 
 ### Datasets
 
