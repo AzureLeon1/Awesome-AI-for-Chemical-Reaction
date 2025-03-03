@@ -73,18 +73,36 @@ This repository is still a work in progress. Please feel free to create a pull r
 2. [ACS Central Science 2017] Computer-Assisted Retrosynthesis Based on Molecular Similarity
 3. [NeurIPS 2019] Retrosynthesis Prediction with Conditional Graph Logic Network
 4. [Journal of Chemical Information and Modeling 2020] Predicting Retrosynthetic Reactions Using Self-Corrected Transformer Neural Networks
-5. [NeurIPS 2021] Learning Graph Models for Retrosynthesis Prediction
-6. [AAAI 2023] Learning Chemical Rules of Retrosynthesis with Pre-Training
+5. [ICML 2020] A graph to graphs framework for retrosynthesis prediction
+6. [NeurIPS 2020] Retroxpert: Decompose retrosynthesis prediction like a chemist
+7. [NeurIPS 2021] Learning Graph Models for Retrosynthesis Prediction
+8. [NeurIPS 2021] Towards understanding retrosynthesis by energy-based models
+9. [IJCAI 2021] RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning
+10. [AAAI 2021] GTA: Graph truncated attention for retrosynthesis
+11. [CIKM 2022] Modeling diverse chemical reactions for single-step retrosynthesis via discrete latent variables
+12. [ICML 2022] Retroformer: Pushing the limits of end-to-end retrosynthesis transformer
+13. [AAAI 2023] Learning Chemical Rules of Retrosynthesis with Pre-Training
+14. [AAAI 2023] Retrosynthesis prediction with local template retrieval
+15. [IJCAI 2023] A Unified View of Deep Learning for Reaction and Retrosynthesis Prediction: Current Status and Future Challenges
+16. [AAAI 2024] RetroOOD: understanding out-of-distribution generalization in retrosynthesis prediction
 
 ### Retrosynthesis Planning
 
 1. [Journal of Chemical Information and Modeling 2020] Bayesian Algorithm for Retrosynthesis
 2. [Chemical Science 2020] Automatic Retrosynthetic Route Planning Using Template-Free Models
 3. [ICML 2020] Retro\*: Learning Retrosynthetic Planning with Neural Guided A\* Search
-4. [ChemRxiv 2023] Do Chemformers Dream of Organic Matter? Evaluating a Transformer Model for Multi-Step Retrosynthesis
-5. [ICLR 2024] RetroBridge: Modeling Retrosynthesis with Markov Bridges
-6. [ICLR 2024] Retro-Fallback: Retrosynthetic Planning in an Uncertain World
-7. [ICLR 2024] Active Retrosynthetic Planning Aware of Route Quality
+4. [ICML 2021] Self-improved retrosynthetic planning
+5. [AAAI 2022] Gnn-retro: Retrosynthetic planning with graph neural networks
+6. [IJCAI 2022] Completeness and Diversity in Depth-First Proof-Number Search with Applications to Retrosynthesis
+7. [KDD 2022] Retrograph: Retrosynthetic planning with graph search
+8. [NeurIPS 2022] Grasp: Navigating retrosynthetic planning with goal-driven policy
+9. [ChemRxiv 2023] Do Chemformers Dream of Organic Matter? Evaluating a Transformer Model for Multi-Step Retrosynthesis
+10. [ICML 2023] FusionRetro: molecule representation fusion via in-context learning for retrosynthetic planning
+11. [ICML 2023] Retrosynthetic planning with dual value networks
+12. [ICLR 2024] RetroBridge: Modeling Retrosynthesis with Markov Bridges
+13. [ICLR 2024] Retro-Fallback: Retrosynthetic Planning in an Uncertain World
+14. [ICLR 2024] Active Retrosynthetic Planning Aware of Route Quality
+15. [NeurIPS 2025] Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge
 
 ## Miscellaneous
 
