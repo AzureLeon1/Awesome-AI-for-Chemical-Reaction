@@ -102,7 +102,7 @@ This repository is still a work in progress. Please feel free to create a pull r
 12. [ICLR 2024] RetroBridge: Modeling Retrosynthesis with Markov Bridges
 13. [ICLR 2024] Retro-Fallback: Retrosynthetic Planning in an Uncertain World
 14. [ICLR 2024] Active Retrosynthetic Planning Aware of Route Quality
-15. [NeurIPS 2025] Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge
+15. [NeurIPS 2024] Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge
 
 ## Miscellaneous
 
