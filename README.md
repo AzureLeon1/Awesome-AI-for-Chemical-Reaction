@@ -8,8 +8,9 @@ Artificial Intelligence has significantly impacted the field of chemical reactio
 
 This repository is still a work in progress. Please feel free to create a pull request if you would like to add other awesome papers.
 
-## Surveys
+## Surveys and Benchmarks
 1. [Chemical Reviews 2021] Machine Learning for Chemical Reactions [[paper](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033)]
+1. [NeurIPS 2024] ReactZyme: A Benchmark for Enzyme-Reaction Prediction [[paper](https://papers.nips.cc/paper_files/paper/2024/file/2e68b2367d2e0bc8dd6f0ff86e07c2eb-Paper-Datasets_and_Benchmarks_Track.pdf)]
 
 ## Forward Reaction
 
@@ -103,6 +104,8 @@ This repository is still a work in progress. Please feel free to create a pull r
 13. [ICLR 2024] Retro-Fallback: Retrosynthetic Planning in an Uncertain World
 14. [ICLR 2024] Active Retrosynthetic Planning Aware of Route Quality
 15. [NeurIPS 2024] Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge
+16. [ICLR 2025] Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning [[paper](https://openreview.net/pdf?id=rQ7fz9NO7f)]
+17. [ICLR 2025] RetroInText: A Multimodal Large Language Model Enhanced Framework for Retrosynthetic Planning via In-Context Representation Learning [[paper](https://openreview.net/pdf?id=J6e4hurEKd)]
 
 ## Miscellaneous
 
